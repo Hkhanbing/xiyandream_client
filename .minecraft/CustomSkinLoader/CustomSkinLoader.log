@@ -1,123 +1,121 @@
-[2024-06-20 15:19:18] [Render thread/INFO] [CustomSkinLoader Core]: CustomSkinLoader 14.19.1
-[2024-06-20 15:19:18] [Render thread/INFO] [CustomSkinLoader Core]: DataDir: C:\Users\hkbin\Desktop\workdir\client\.minecraft\CustomSkinLoader
-[2024-06-20 15:19:18] [Render thread/INFO] [CustomSkinLoader Core]: Operating System: Windows 10 (amd64) version 10.0
-[2024-06-20 15:19:18] [Render thread/INFO] [CustomSkinLoader Core]: Java Version: 17.0.9, Azul Systems, Inc.
-[2024-06-20 15:19:18] [Render thread/INFO] [CustomSkinLoader Core]: Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Azul Systems, Inc.
-[2024-06-20 15:19:18] [Render thread/INFO] [CustomSkinLoader Core]: Minecraft: unknown
-[2024-06-20 15:19:18] [Render thread/INFO] [CustomSkinLoader Core]: Config File: C:\Users\hkbin\Desktop\workdir\client\.minecraft\CustomSkinLoader\CustomSkinLoader.json
-[2024-06-20 15:19:18] [Render thread/INFO] [CustomSkinLoader Core]: Try to load config.
-[2024-06-20 15:19:18] [Render thread/INFO] [CustomSkinLoader Core]: Successfully load config.
-[2024-06-20 15:19:18] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: MojangAPI
-[2024-06-20 15:19:18] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: Legacy
-[2024-06-20 15:19:18] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: CustomSkinAPI
-[2024-06-20 15:19:18] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: CustomSKinAPIPlus
-[2024-06-20 15:19:18] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: UniSkinAPI
-[2024-06-20 15:19:18] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: ElyByAPI
-[2024-06-20 15:19:18] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: GlitchlessAPI
-[2024-06-20 15:19:18] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: MinecraftCapesAPI
-[2024-06-20 15:19:18] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: WynntilsAPI
-[2024-06-20 15:19:18] [Render thread/INFO] [CustomSkinLoader Core]: Successfully update config.
-[2024-06-20 15:19:18] [Render thread/INFO] [CustomSkinLoader Core]: version : 14.19.1
-[2024-06-20 15:19:18] [Render thread/INFO] [CustomSkinLoader Core]: buildNumber : 26
-[2024-06-20 15:19:18] [Render thread/INFO] [CustomSkinLoader Core]: loadlist : [{ "name": "Mojang", "type": "MojangAPI", "apiRoot": "https://api.mojang.com/", "sessionRoot": "https://sessionserver.mojang.com/" }, { "name": "LittleSkin", "type": "CustomSkinAPI", "root": "https://littleskin.cn/csl/" }, { "name": "BlessingSkin", "type": "CustomSkinAPI", "root": "https://skin.prinzeugen.net/" }, { "name": "ElyBy", "type": "ElyByAPI", "root": "http://skinsystem.ely.by/textures/" }, { "name": "SkinMe", "type": "UniSkinAPI", "root": "http://www.skinme.cc/uniskin/" }, { "name": "TLauncher", "type": "ElyByAPI", "root": "https://auth.tlauncher.org/skin/profile/texture/login/" }, { "name": "GlitchlessGames", "type": "GlitchlessAPI", "root": "https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=" }, { "name": "LocalSkin", "type": "Legacy", "checkPNG": "false", "skin": "LocalSkin/skins/{USERNAME}.png", "model": "auto", "cape": "LocalSkin/capes/{USERNAME}.png", "elytra": "LocalSkin/elytras/{USERNAME}.png" }, { "name": "MinecraftCapes", "type": "MinecraftCapesAPI", "root": "https://api.minecraftcapes.net/profile/" }, { "name": "OptiFine", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "https://optifine.net/capes/{USERNAME}.png" }, { "name": "Wynntils", "type": "WynntilsAPI", "root": "https://athena.wynntils.com/user/getInfo" }, { "name": "CloakPlus", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "http://161.35.130.99/capes/{USERNAME}.png" }, { "name": "LabyMod", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "https://dl.labymod.net/capes/{STANDARD_UUID}" }, { "name": "Cosmetica", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "https://api.cosmetica.cc/get/cloak?username={USERNAME}&uuid={STANDARD_UUID}&nothirdparty" }]
-[2024-06-20 15:19:18] [Render thread/INFO] [CustomSkinLoader Core]: enableDynamicSkull : true
-[2024-06-20 15:19:18] [Render thread/INFO] [CustomSkinLoader Core]: enableTransparentSkin : true
-[2024-06-20 15:19:18] [Render thread/INFO] [CustomSkinLoader Core]: forceLoadAllTextures : true
-[2024-06-20 15:19:18] [Render thread/INFO] [CustomSkinLoader Core]: enableCape : true
-[2024-06-20 15:19:18] [Render thread/INFO] [CustomSkinLoader Core]: threadPoolSize : 8
-[2024-06-20 15:19:18] [Render thread/INFO] [CustomSkinLoader Core]: enableLogStdOut : false
-[2024-06-20 15:19:18] [Render thread/INFO] [CustomSkinLoader Core]: cacheExpiry : 30
-[2024-06-20 15:19:18] [Render thread/INFO] [CustomSkinLoader Core]: forceUpdateSkull : false
-[2024-06-20 15:19:18] [Render thread/INFO] [CustomSkinLoader Core]: enableLocalProfileCache : false
-[2024-06-20 15:19:18] [Render thread/INFO] [CustomSkinLoader Core]: enableCacheAutoClean : false
-[2024-06-20 15:19:18] [Render thread/INFO] [CustomSkinLoader Core]: forceDisableCache : false
-[2024-06-20 15:19:18] [binbin/INFO] [CustomSkinLoader Core]: Loading binbin's profile.
-[2024-06-20 15:19:18] [binbin/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'Mojang'.
-[2024-06-20 15:19:18] [binbin/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
-[2024-06-20 15:19:18] [binbin/INFO] [CustomSkinLoader Core]: Payload: ["binbin"]
-[2024-06-20 15:19:19] [binbin/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 72)
-[2024-06-20 15:19:19] [binbin/DEBUG] [CustomSkinLoader Core]: Content: [ {
+[2024-06-21 19:56:20] [Render thread/INFO] [CustomSkinLoader Core]: CustomSkinLoader 14.19.1
+[2024-06-21 19:56:20] [Render thread/INFO] [CustomSkinLoader Core]: DataDir: C:\Users\hkbin\Desktop\workdir\client\.minecraft\CustomSkinLoader
+[2024-06-21 19:56:20] [Render thread/INFO] [CustomSkinLoader Core]: Operating System: Windows 10 (amd64) version 10.0
+[2024-06-21 19:56:20] [Render thread/INFO] [CustomSkinLoader Core]: Java Version: 21.0.3, Azul Systems, Inc.
+[2024-06-21 19:56:20] [Render thread/INFO] [CustomSkinLoader Core]: Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Azul Systems, Inc.
+[2024-06-21 19:56:20] [Render thread/INFO] [CustomSkinLoader Core]: Minecraft: unknown
+[2024-06-21 19:56:20] [Render thread/INFO] [CustomSkinLoader Core]: Config File: C:\Users\hkbin\Desktop\workdir\client\.minecraft\CustomSkinLoader\CustomSkinLoader.json
+[2024-06-21 19:56:20] [Render thread/INFO] [CustomSkinLoader Core]: Try to load config.
+[2024-06-21 19:56:20] [Render thread/INFO] [CustomSkinLoader Core]: Successfully load config.
+[2024-06-21 19:56:20] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: MojangAPI
+[2024-06-21 19:56:20] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: Legacy
+[2024-06-21 19:56:20] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: CustomSkinAPI
+[2024-06-21 19:56:20] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: CustomSKinAPIPlus
+[2024-06-21 19:56:20] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: UniSkinAPI
+[2024-06-21 19:56:20] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: ElyByAPI
+[2024-06-21 19:56:20] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: GlitchlessAPI
+[2024-06-21 19:56:20] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: MinecraftCapesAPI
+[2024-06-21 19:56:20] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: WynntilsAPI
+[2024-06-21 19:56:20] [Render thread/INFO] [CustomSkinLoader Core]: Successfully update config.
+[2024-06-21 19:56:20] [Render thread/INFO] [CustomSkinLoader Core]: version : 14.19.1
+[2024-06-21 19:56:20] [Render thread/INFO] [CustomSkinLoader Core]: buildNumber : 26
+[2024-06-21 19:56:20] [Render thread/INFO] [CustomSkinLoader Core]: loadlist : [{ "name": "Mojang", "type": "MojangAPI", "apiRoot": "https://api.mojang.com/", "sessionRoot": "https://sessionserver.mojang.com/" }, { "name": "LittleSkin", "type": "CustomSkinAPI", "root": "https://littleskin.cn/csl/" }, { "name": "BlessingSkin", "type": "CustomSkinAPI", "root": "https://skin.prinzeugen.net/" }, { "name": "ElyBy", "type": "ElyByAPI", "root": "http://skinsystem.ely.by/textures/" }, { "name": "SkinMe", "type": "UniSkinAPI", "root": "http://www.skinme.cc/uniskin/" }, { "name": "TLauncher", "type": "ElyByAPI", "root": "https://auth.tlauncher.org/skin/profile/texture/login/" }, { "name": "GlitchlessGames", "type": "GlitchlessAPI", "root": "https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=" }, { "name": "LocalSkin", "type": "Legacy", "checkPNG": "false", "skin": "LocalSkin/skins/{USERNAME}.png", "model": "auto", "cape": "LocalSkin/capes/{USERNAME}.png", "elytra": "LocalSkin/elytras/{USERNAME}.png" }, { "name": "MinecraftCapes", "type": "MinecraftCapesAPI", "root": "https://api.minecraftcapes.net/profile/" }, { "name": "OptiFine", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "https://optifine.net/capes/{USERNAME}.png" }, { "name": "Wynntils", "type": "WynntilsAPI", "root": "https://athena.wynntils.com/user/getInfo" }, { "name": "CloakPlus", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "http://161.35.130.99/capes/{USERNAME}.png" }, { "name": "LabyMod", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "https://dl.labymod.net/capes/{STANDARD_UUID}" }, { "name": "Cosmetica", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "https://api.cosmetica.cc/get/cloak?username={USERNAME}&uuid={STANDARD_UUID}&nothirdparty" }]
+[2024-06-21 19:56:20] [Render thread/INFO] [CustomSkinLoader Core]: enableDynamicSkull : true
+[2024-06-21 19:56:20] [Render thread/INFO] [CustomSkinLoader Core]: enableTransparentSkin : true
+[2024-06-21 19:56:20] [Render thread/INFO] [CustomSkinLoader Core]: forceLoadAllTextures : true
+[2024-06-21 19:56:20] [Render thread/INFO] [CustomSkinLoader Core]: enableCape : true
+[2024-06-21 19:56:20] [Render thread/INFO] [CustomSkinLoader Core]: threadPoolSize : 8
+[2024-06-21 19:56:20] [Render thread/INFO] [CustomSkinLoader Core]: enableLogStdOut : false
+[2024-06-21 19:56:20] [Render thread/INFO] [CustomSkinLoader Core]: cacheExpiry : 30
+[2024-06-21 19:56:20] [Render thread/INFO] [CustomSkinLoader Core]: forceUpdateSkull : false
+[2024-06-21 19:56:20] [Render thread/INFO] [CustomSkinLoader Core]: enableLocalProfileCache : false
+[2024-06-21 19:56:20] [Render thread/INFO] [CustomSkinLoader Core]: enableCacheAutoClean : false
+[2024-06-21 19:56:20] [Render thread/INFO] [CustomSkinLoader Core]: forceDisableCache : false
+[2024-06-21 19:56:20] [binbin/INFO] [CustomSkinLoader Core]: Loading binbin's profile.
+[2024-06-21 19:56:20] [binbin/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'Mojang'.
+[2024-06-21 19:56:20] [binbin/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2024-06-21 19:56:20] [binbin/INFO] [CustomSkinLoader Core]: Payload: ["binbin"]
+[2024-06-21 19:56:20] [binbin/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 72)
+[2024-06-21 19:56:20] [binbin/DEBUG] [CustomSkinLoader Core]: Content: [ {
   "id" : "ef4586ad47b04333ac68993dccc68873",
   "name" : "binbin"
 } ]
-[2024-06-20 15:19:19] [binbin/DEBUG] [CustomSkinLoader Core]: Try to request 'https://sessionserver.mojang.com/session/minecraft/profile/ef4586ad47b04333ac68993dccc68873'.
-[2024-06-20 15:19:19] [binbin/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 532)
-[2024-06-20 15:19:19] [binbin/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 532 , Path: 'C:\Users\hkbin\Desktop\workdir\client\.minecraft\CustomSkinLoader\caches\e97f4f6519fc12c360e3231cb8604761135048f5' , Expire: 1718867989)
-[2024-06-20 15:19:19] [binbin/DEBUG] [CustomSkinLoader Core]: Content: {
+[2024-06-21 19:56:20] [binbin/DEBUG] [CustomSkinLoader Core]: Try to request 'https://sessionserver.mojang.com/session/minecraft/profile/ef4586ad47b04333ac68993dccc68873'.
+[2024-06-21 19:56:21] [binbin/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 532)
+[2024-06-21 19:56:21] [binbin/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 532 , Path: 'C:\Users\hkbin\Desktop\workdir\client\.minecraft\CustomSkinLoader\caches\e97f4f6519fc12c360e3231cb8604761135048f5' , Expire: 1718971011)
+[2024-06-21 19:56:21] [binbin/DEBUG] [CustomSkinLoader Core]: Content: {
   "id" : "ef4586ad47b04333ac68993dccc68873",
   "name" : "binbin",
   "properties" : [ {
     "name" : "textures",
-    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcxODg2Nzk1ODE1NywKICAicHJvZmlsZUlkIiA6ICJlZjQ1ODZhZDQ3YjA0MzMzYWM2ODk5M2RjY2M2ODg3MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJiaW5iaW4iLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjA1YjEyMmNkNTA1ZTkzNjYwMzU5YWE1NzY1ODIzZTQ4MDkxNGZlOWM0NGFhZjBlOTZiMDExODA1MDMzZTY1YSIKICAgIH0KICB9Cn0="
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcxODk3MDk4MDI5NywKICAicHJvZmlsZUlkIiA6ICJlZjQ1ODZhZDQ3YjA0MzMzYWM2ODk5M2RjY2M2ODg3MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJiaW5iaW4iLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjA1YjEyMmNkNTA1ZTkzNjYwMzU5YWE1NzY1ODIzZTQ4MDkxNGZlOWM0NGFhZjBlOTZiMDExODA1MDMzZTY1YSIKICAgIH0KICB9Cn0="
   } ],
   "profileActions" : [ ]
 }
-[2024-06-20 15:19:19] [binbin/INFO] [CustomSkinLoader Core]: 2/14 Try to load profile from 'LittleSkin'.
-[2024-06-20 15:19:19] [binbin/DEBUG] [CustomSkinLoader Core]: Try to request 'https://littleskin.cn/csl/binbin.json'.
-[2024-06-20 15:19:20] [binbin/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 304 , Content Length: -1)
-[2024-06-20 15:19:20] [binbin/DEBUG] [CustomSkinLoader Core]: Cache file found (Length: 58 , Path: 'C:\Users\hkbin\Desktop\workdir\client\.minecraft\CustomSkinLoader\caches\c3087e813d55112f4df84943d18e8c3bf8a349a6' , Expire: 0)
-[2024-06-20 15:19:20] [binbin/INFO] [CustomSkinLoader Core]: Try to load from cache 'C:\Users\hkbin\Desktop\workdir\client\.minecraft\CustomSkinLoader\caches\c3087e813d55112f4df84943d18e8c3bf8a349a6'.
-[2024-06-20 15:19:20] [binbin/DEBUG] [CustomSkinLoader Core]: Successfully load from cache
-[2024-06-20 15:19:20] [binbin/DEBUG] [CustomSkinLoader Core]: Content: {"username":"binbin","skins":{"default":null},"cape":null}
-[2024-06-20 15:19:20] [binbin/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
-[2024-06-20 15:19:20] [binbin/INFO] [CustomSkinLoader Core]: 3/14 Try to load profile from 'BlessingSkin'.
-[2024-06-20 15:19:20] [binbin/DEBUG] [CustomSkinLoader Core]: Try to request 'https://skin.prinzeugen.net/binbin.json'.
-[2024-06-20 15:19:20] [binbin/DEBUG] [CustomSkinLoader Core]: Cache file found (Length: 46 , Path: 'C:\Users\hkbin\Desktop\workdir\client\.minecraft\CustomSkinLoader\caches\d3e0b330295ee410d6a0e38e8437dedb4630c972' , Expire: 1721540865)
-[2024-06-20 15:19:20] [binbin/INFO] [CustomSkinLoader Core]: Try to load from cache 'C:\Users\hkbin\Desktop\workdir\client\.minecraft\CustomSkinLoader\caches\d3e0b330295ee410d6a0e38e8437dedb4630c972'.
-[2024-06-20 15:19:20] [binbin/DEBUG] [CustomSkinLoader Core]: Successfully load from cache
-[2024-06-20 15:19:20] [binbin/DEBUG] [CustomSkinLoader Core]: Content: {
+[2024-06-21 19:56:21] [binbin/INFO] [CustomSkinLoader Core]: 2/14 Try to load profile from 'LittleSkin'.
+[2024-06-21 19:56:21] [binbin/DEBUG] [CustomSkinLoader Core]: Try to request 'https://littleskin.cn/csl/binbin.json'.
+[2024-06-21 19:56:21] [binbin/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 304 , Content Length: -1)
+[2024-06-21 19:56:21] [binbin/DEBUG] [CustomSkinLoader Core]: Cache file found (Length: 58 , Path: 'C:\Users\hkbin\Desktop\workdir\client\.minecraft\CustomSkinLoader\caches\c3087e813d55112f4df84943d18e8c3bf8a349a6' , Expire: 0)
+[2024-06-21 19:56:21] [binbin/INFO] [CustomSkinLoader Core]: Try to load from cache 'C:\Users\hkbin\Desktop\workdir\client\.minecraft\CustomSkinLoader\caches\c3087e813d55112f4df84943d18e8c3bf8a349a6'.
+[2024-06-21 19:56:21] [binbin/DEBUG] [CustomSkinLoader Core]: Successfully load from cache
+[2024-06-21 19:56:21] [binbin/DEBUG] [CustomSkinLoader Core]: Content: {"username":"binbin","skins":{"default":null},"cape":null}
+[2024-06-21 19:56:21] [binbin/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
+[2024-06-21 19:56:21] [binbin/INFO] [CustomSkinLoader Core]: 3/14 Try to load profile from 'BlessingSkin'.
+[2024-06-21 19:56:21] [binbin/DEBUG] [CustomSkinLoader Core]: Try to request 'https://skin.prinzeugen.net/binbin.json'.
+[2024-06-21 19:56:21] [binbin/DEBUG] [CustomSkinLoader Core]: Cache file found (Length: 46 , Path: 'C:\Users\hkbin\Desktop\workdir\client\.minecraft\CustomSkinLoader\caches\d3e0b330295ee410d6a0e38e8437dedb4630c972' , Expire: 1721540865)
+[2024-06-21 19:56:21] [binbin/INFO] [CustomSkinLoader Core]: Try to load from cache 'C:\Users\hkbin\Desktop\workdir\client\.minecraft\CustomSkinLoader\caches\d3e0b330295ee410d6a0e38e8437dedb4630c972'.
+[2024-06-21 19:56:21] [binbin/DEBUG] [CustomSkinLoader Core]: Successfully load from cache
+[2024-06-21 19:56:21] [binbin/DEBUG] [CustomSkinLoader Core]: Content: {
     "username": "binbin",
     "cape": null
 }
-[2024-06-20 15:19:20] [binbin/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
-[2024-06-20 15:19:20] [binbin/INFO] [CustomSkinLoader Core]: 4/14 Try to load profile from 'ElyBy'.
-[2024-06-20 15:19:20] [binbin/DEBUG] [CustomSkinLoader Core]: Try to request 'http://skinsystem.ely.by/textures/binbin'.
-[2024-06-20 15:19:21] [binbin/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 83)
-[2024-06-20 15:19:21] [binbin/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 83 , Path: 'C:\Users\hkbin\Desktop\workdir\client\.minecraft\CustomSkinLoader\caches\260d5a38c736b2816ed5f086c339e002f70cee41' , Expire: 1718868056)
-[2024-06-20 15:19:21] [binbin/DEBUG] [CustomSkinLoader Core]: Content: {"SKIN":{"url":"http://ely.by/storage/skins/64408ef42961a1579a88ac0fd809d8b2.png"}}
-[2024-06-20 15:19:21] [binbin/INFO] [CustomSkinLoader Core]: 5/14 Try to load profile from 'SkinMe'.
-[2024-06-20 15:19:21] [binbin/DEBUG] [CustomSkinLoader Core]: Try to request 'http://www.skinme.cc/uniskin/binbin.json'.
-[2024-06-20 15:19:21] [binbin/DEBUG] [CustomSkinLoader Core]: Failed to request http://www.skinme.cc/uniskin/binbin.json (Exception: java.net.UnknownHostException: www.skinme.cc)
-[2024-06-20 15:19:21] [binbin/INFO] [CustomSkinLoader Core]: Profile not found.
-[2024-06-20 15:19:21] [binbin/INFO] [CustomSkinLoader Core]: 6/14 Try to load profile from 'TLauncher'.
-[2024-06-20 15:19:21] [binbin/DEBUG] [CustomSkinLoader Core]: Try to request 'https://auth.tlauncher.org/skin/profile/texture/login/binbin'.
-[2024-06-20 15:19:22] [binbin/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
-[2024-06-20 15:19:22] [binbin/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 111 , Path: 'C:\Users\hkbin\Desktop\workdir\client\.minecraft\CustomSkinLoader\caches\ff5d95069c8f014a96aa984c92c88cd93034761d' , Expire: 1718868054)
-[2024-06-20 15:19:22] [binbin/DEBUG] [CustomSkinLoader Core]: Content: {"SKIN":{"url":"http://auth.tlauncher.org/skin/fileservice/skins/skin_binbin.png","metadata":{"model":"slim"}}}
-[2024-06-20 15:19:22] [binbin/INFO] [CustomSkinLoader Core]: 7/14 Try to load profile from 'GlitchlessGames'.
-[2024-06-20 15:19:22] [binbin/DEBUG] [CustomSkinLoader Core]: Try to request 'https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=binbin'.
-[2024-06-20 15:19:23] [binbin/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
-[2024-06-20 15:19:23] [binbin/INFO] [CustomSkinLoader Core]: Profile not found.
-[2024-06-20 15:19:23] [binbin/INFO] [CustomSkinLoader Core]: 8/14 Try to load profile from 'LocalSkin'.
-[2024-06-20 15:19:23] [binbin/INFO] [CustomSkinLoader Core]: No texture could be found.
-[2024-06-20 15:19:23] [binbin/INFO] [CustomSkinLoader Core]: 9/14 Try to load profile from 'MinecraftCapes'.
-[2024-06-20 15:19:23] [binbin/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.minecraftcapes.net/profile/ef4586ad47b04333ac68993dccc68873'.
-[2024-06-20 15:19:24] [binbin/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 304 , Content Length: -1)
-[2024-06-20 15:19:24] [binbin/DEBUG] [CustomSkinLoader Core]: Cache file found (Length: 96 , Path: 'C:\Users\hkbin\Desktop\workdir\client\.minecraft\CustomSkinLoader\caches\af78299cc3f01c9b889ea5c61910c221a6e08e2c' , Expire: 0)
-[2024-06-20 15:19:24] [binbin/INFO] [CustomSkinLoader Core]: Try to load from cache 'C:\Users\hkbin\Desktop\workdir\client\.minecraft\CustomSkinLoader\caches\af78299cc3f01c9b889ea5c61910c221a6e08e2c'.
-[2024-06-20 15:19:24] [binbin/DEBUG] [CustomSkinLoader Core]: Successfully load from cache
-[2024-06-20 15:19:24] [binbin/DEBUG] [CustomSkinLoader Core]: Content: {"animatedCape":false,"capeGlint":false,"upsideDown":false,"textures":{"cape":null,"ears":null}}
-[2024-06-20 15:19:24] [binbin/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
-[2024-06-20 15:19:24] [binbin/INFO] [CustomSkinLoader Core]: 10/14 Try to load profile from 'OptiFine'.
-[2024-06-20 15:19:24] [binbin/DEBUG] [CustomSkinLoader Core]: Try to request 'https://optifine.net/capes/binbin.png'.
-[2024-06-20 15:19:24] [binbin/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
-[2024-06-20 15:19:24] [binbin/INFO] [CustomSkinLoader Core]: No texture could be found.
-[2024-06-20 15:19:24] [binbin/INFO] [CustomSkinLoader Core]: 11/14 Try to load profile from 'Wynntils'.
-[2024-06-20 15:19:24] [binbin/DEBUG] [CustomSkinLoader Core]: Try to request 'https://athena.wynntils.com/user/getInfo'.
-[2024-06-20 15:19:24] [binbin/INFO] [CustomSkinLoader Core]: Payload: {"uuid":"ef4586ad-47b0-4333-ac68-993dccc68873"}
-[2024-06-20 15:19:35] [binbin/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
-[2024-06-20 15:19:35] [binbin/INFO] [CustomSkinLoader Core]: Profile not found.
-[2024-06-20 15:19:35] [binbin/INFO] [CustomSkinLoader Core]: 12/14 Try to load profile from 'CloakPlus'.
-[2024-06-20 15:19:35] [binbin/DEBUG] [CustomSkinLoader Core]: Try to request 'http://161.35.130.99/capes/binbin.png'.
-[2024-06-20 15:19:37] [binbin/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
-[2024-06-20 15:19:37] [binbin/INFO] [CustomSkinLoader Core]: No texture could be found.
-[2024-06-20 15:19:37] [binbin/INFO] [CustomSkinLoader Core]: 13/14 Try to load profile from 'LabyMod'.
-[2024-06-20 15:19:37] [binbin/DEBUG] [CustomSkinLoader Core]: Try to request 'https://dl.labymod.net/capes/ef4586ad-47b0-4333-ac68-993dccc68873'.
-[2024-06-20 15:19:38] [binbin/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
-[2024-06-20 15:19:38] [binbin/INFO] [CustomSkinLoader Core]: No texture could be found.
-[2024-06-20 15:19:38] [binbin/INFO] [CustomSkinLoader Core]: 14/14 Try to load profile from 'Cosmetica'.
-[2024-06-20 15:19:38] [binbin/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.cosmetica.cc/get/cloak?username=binbin&uuid=ef4586ad-47b0-4333-ac68-993dccc68873&nothirdparty'.
-[2024-06-20 15:19:41] [binbin/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
-[2024-06-20 15:19:41] [binbin/INFO] [CustomSkinLoader Core]: No texture could be found.
-[2024-06-20 15:19:41] [binbin/INFO] [CustomSkinLoader Core]: binbin's profile loaded.
-[2024-06-20 15:19:41] [binbin/INFO] [CustomSkinLoader Core]: (SkinUrl: http://textures.minecraft.net/texture/f05b122cd505e93660359aa5765823e480914fe9c44aaf0e96b011805033e65a , Model: default , CapeUrl: null  , Expiry: 1718868011)
+[2024-06-21 19:56:21] [binbin/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
+[2024-06-21 19:56:21] [binbin/INFO] [CustomSkinLoader Core]: 4/14 Try to load profile from 'ElyBy'.
+[2024-06-21 19:56:21] [binbin/DEBUG] [CustomSkinLoader Core]: Try to request 'http://skinsystem.ely.by/textures/binbin'.
+[2024-06-21 19:56:22] [binbin/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 83)
+[2024-06-21 19:56:22] [binbin/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 83 , Path: 'C:\Users\hkbin\Desktop\workdir\client\.minecraft\CustomSkinLoader\caches\260d5a38c736b2816ed5f086c339e002f70cee41' , Expire: 1718971075)
+[2024-06-21 19:56:22] [binbin/DEBUG] [CustomSkinLoader Core]: Content: {"SKIN":{"url":"http://ely.by/storage/skins/64408ef42961a1579a88ac0fd809d8b2.png"}}
+[2024-06-21 19:56:22] [binbin/INFO] [CustomSkinLoader Core]: 5/14 Try to load profile from 'SkinMe'.
+[2024-06-21 19:56:22] [binbin/DEBUG] [CustomSkinLoader Core]: Try to request 'http://www.skinme.cc/uniskin/binbin.json'.
+[2024-06-21 19:56:22] [binbin/DEBUG] [CustomSkinLoader Core]: Failed to request http://www.skinme.cc/uniskin/binbin.json (Exception: java.net.UnknownHostException: www.skinme.cc)
+[2024-06-21 19:56:22] [binbin/INFO] [CustomSkinLoader Core]: Profile not found.
+[2024-06-21 19:56:22] [binbin/INFO] [CustomSkinLoader Core]: 6/14 Try to load profile from 'TLauncher'.
+[2024-06-21 19:56:22] [binbin/DEBUG] [CustomSkinLoader Core]: Try to request 'https://auth.tlauncher.org/skin/profile/texture/login/binbin'.
+[2024-06-21 19:56:23] [binbin/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
+[2024-06-21 19:56:23] [binbin/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 111 , Path: 'C:\Users\hkbin\Desktop\workdir\client\.minecraft\CustomSkinLoader\caches\ff5d95069c8f014a96aa984c92c88cd93034761d' , Expire: 1718971077)
+[2024-06-21 19:56:23] [binbin/DEBUG] [CustomSkinLoader Core]: Content: {"SKIN":{"url":"http://auth.tlauncher.org/skin/fileservice/skins/skin_binbin.png","metadata":{"model":"slim"}}}
+[2024-06-21 19:56:23] [binbin/INFO] [CustomSkinLoader Core]: 7/14 Try to load profile from 'GlitchlessGames'.
+[2024-06-21 19:56:23] [binbin/DEBUG] [CustomSkinLoader Core]: Try to request 'https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=binbin'.
+[2024-06-21 19:56:24] [binbin/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2024-06-21 19:56:24] [binbin/INFO] [CustomSkinLoader Core]: Profile not found.
+[2024-06-21 19:56:24] [binbin/INFO] [CustomSkinLoader Core]: 8/14 Try to load profile from 'LocalSkin'.
+[2024-06-21 19:56:24] [binbin/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2024-06-21 19:56:24] [binbin/INFO] [CustomSkinLoader Core]: 9/14 Try to load profile from 'MinecraftCapes'.
+[2024-06-21 19:56:24] [binbin/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.minecraftcapes.net/profile/ef4586ad47b04333ac68993dccc68873'.
+[2024-06-21 19:56:25] [binbin/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
+[2024-06-21 19:56:25] [binbin/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 96 , Path: 'C:\Users\hkbin\Desktop\workdir\client\.minecraft\CustomSkinLoader\caches\af78299cc3f01c9b889ea5c61910c221a6e08e2c' , Expire: 1718972785)
+[2024-06-21 19:56:25] [binbin/DEBUG] [CustomSkinLoader Core]: Content: {"animatedCape":false,"capeGlint":false,"upsideDown":false,"textures":{"cape":null,"ears":null}}
+[2024-06-21 19:56:25] [binbin/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
+[2024-06-21 19:56:25] [binbin/INFO] [CustomSkinLoader Core]: 10/14 Try to load profile from 'OptiFine'.
+[2024-06-21 19:56:25] [binbin/DEBUG] [CustomSkinLoader Core]: Try to request 'https://optifine.net/capes/binbin.png'.
+[2024-06-21 19:56:25] [binbin/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2024-06-21 19:56:25] [binbin/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2024-06-21 19:56:25] [binbin/INFO] [CustomSkinLoader Core]: 11/14 Try to load profile from 'Wynntils'.
+[2024-06-21 19:56:25] [binbin/DEBUG] [CustomSkinLoader Core]: Try to request 'https://athena.wynntils.com/user/getInfo'.
+[2024-06-21 19:56:25] [binbin/INFO] [CustomSkinLoader Core]: Payload: {"uuid":"ef4586ad-47b0-4333-ac68-993dccc68873"}
+[2024-06-21 19:56:33] [binbin/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2024-06-21 19:56:33] [binbin/INFO] [CustomSkinLoader Core]: Profile not found.
+[2024-06-21 19:56:33] [binbin/INFO] [CustomSkinLoader Core]: 12/14 Try to load profile from 'CloakPlus'.
+[2024-06-21 19:56:33] [binbin/DEBUG] [CustomSkinLoader Core]: Try to request 'http://161.35.130.99/capes/binbin.png'.
+[2024-06-21 19:56:34] [binbin/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2024-06-21 19:56:34] [binbin/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2024-06-21 19:56:34] [binbin/INFO] [CustomSkinLoader Core]: 13/14 Try to load profile from 'LabyMod'.
+[2024-06-21 19:56:34] [binbin/DEBUG] [CustomSkinLoader Core]: Try to request 'https://dl.labymod.net/capes/ef4586ad-47b0-4333-ac68-993dccc68873'.
+[2024-06-21 19:56:35] [binbin/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2024-06-21 19:56:35] [binbin/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2024-06-21 19:56:35] [binbin/INFO] [CustomSkinLoader Core]: 14/14 Try to load profile from 'Cosmetica'.
+[2024-06-21 19:56:35] [binbin/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.cosmetica.cc/get/cloak?username=binbin&uuid=ef4586ad-47b0-4333-ac68-993dccc68873&nothirdparty'.
+[2024-06-21 19:56:37] [binbin/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2024-06-21 19:56:37] [binbin/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2024-06-21 19:56:37] [binbin/INFO] [CustomSkinLoader Core]: binbin's profile loaded.
+[2024-06-21 19:56:37] [binbin/INFO] [CustomSkinLoader Core]: (SkinUrl: http://textures.minecraft.net/texture/f05b122cd505e93660359aa5765823e480914fe9c44aaf0e96b011805033e65a , Model: default , CapeUrl: null  , Expiry: 1718971027)
