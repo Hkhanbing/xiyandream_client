@@ -1,0 +1,17 @@
+{
+	id: "93a30eff-4aa7-3845-b616-e60cbf31752b"
+	type: "player"
+	player_name: "binbin"
+	ranks: {
+		93a30eff-4aa7-3845-b616-e60cbf31752b: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "binbin"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF6E59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

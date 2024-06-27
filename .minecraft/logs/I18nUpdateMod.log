@@ -1,15 +1,14 @@
-[2024-06-21 20:38:04] [INFO]: I18nUpdate Mod 3.5.5 is loaded in 1.20.1 with Forge
-[2024-06-21 20:38:04] [DEBUG]: Minecraft path: C:\Users\hkbin\Desktop\workdir\client\.minecraft
-[2024-06-21 20:38:04] [DEBUG]: User home: C:\Users\hkbin
-[2024-06-21 20:38:04] [DEBUG]: Local file C:\Users\hkbin\.i18nupdatemod\1.20\Minecraft-Mod-Language-Modpack-1-20.zip has been updated recently.
-[2024-06-21 20:38:04] [DEBUG]: Already up to date.
-[2024-06-21 20:38:04] [DEBUG]: Local file C:\Users\hkbin\.i18nupdatemod\1.19\Minecraft-Mod-Language-Modpack-1-19.zip has been updated recently.
-[2024-06-21 20:38:04] [DEBUG]: Already up to date.
-[2024-06-21 20:38:04] [DEBUG]: C:\Users\hkbin\.i18nupdatemod\1.18\Minecraft-Mod-Language-Modpack-1-18.zip md5: A3DBB185B563E8B37E86FE5EE99D1BC8, remote md5: A70348747062D363CF29525C2BBBB5BD
-[2024-06-21 20:38:04] [INFO]: Downloading: http://downloader1.meitangdehulu.com:22943/Minecraft-Mod-Language-Modpack-1-18.zip -> C:\Users\hkbin\.i18nupdatemod\1.18\Minecraft-Mod-Language-Modpack-1-18.zip.tmp
-[2024-06-21 20:40:48] [WARNING]: Error while downloading: java.net.SocketTimeoutException: Read timed out
-[2024-06-21 20:40:48] [INFO]: Converting: C:\Users\hkbin\.i18nupdatemod\1.20\Minecraft-Mod-Language-Modpack-1-20.zip
-[2024-06-21 20:40:49] [INFO]: Converting: C:\Users\hkbin\.i18nupdatemod\1.19\Minecraft-Mod-Language-Modpack-1-19.zip
-[2024-06-21 20:40:49] [INFO]: Converting: C:\Users\hkbin\.i18nupdatemod\1.18\Minecraft-Mod-Language-Modpack-1-18.zip
-[2024-06-21 20:40:49] [INFO]: Converted: [C:\Users\hkbin\.i18nupdatemod\1.20\Minecraft-Mod-Language-Modpack-1-20.zip, C:\Users\hkbin\.i18nupdatemod\1.19\Minecraft-Mod-Language-Modpack-1-19.zip, C:\Users\hkbin\.i18nupdatemod\1.18\Minecraft-Mod-Language-Modpack-1-18.zip] -> C:\Users\hkbin\.i18nupdatemod\1.20.1\Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip
-[2024-06-21 20:40:49] [INFO]: Synchronized: C:\Users\hkbin\.i18nupdatemod\1.20.1\Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip -> C:\Users\hkbin\Desktop\workdir\client\.minecraft\resourcepacks\Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip
+[2024-06-24 13:36:58] [INFO]: I18nUpdate Mod 3.5.5 is loaded in 1.20.1 with Forge
+[2024-06-24 13:36:58] [DEBUG]: Minecraft path: C:\Users\hkbin\Desktop\workdir\client\.minecraft
+[2024-06-24 13:36:58] [DEBUG]: User home: C:\Users\hkbin
+[2024-06-24 13:36:58] [DEBUG]: Local file C:\Users\hkbin\.i18nupdatemod\1.20\Minecraft-Mod-Language-Modpack-1-20.zip has been updated recently.
+[2024-06-24 13:36:58] [DEBUG]: Already up to date.
+[2024-06-24 13:36:58] [DEBUG]: Local file C:\Users\hkbin\.i18nupdatemod\1.19\Minecraft-Mod-Language-Modpack-1-19.zip has been updated recently.
+[2024-06-24 13:36:58] [DEBUG]: Already up to date.
+[2024-06-24 13:36:58] [DEBUG]: Local file C:\Users\hkbin\.i18nupdatemod\1.18\Minecraft-Mod-Language-Modpack-1-18.zip has been updated recently.
+[2024-06-24 13:36:58] [DEBUG]: Already up to date.
+[2024-06-24 13:36:58] [INFO]: Converting: C:\Users\hkbin\.i18nupdatemod\1.20\Minecraft-Mod-Language-Modpack-1-20.zip
+[2024-06-24 13:36:58] [INFO]: Converting: C:\Users\hkbin\.i18nupdatemod\1.19\Minecraft-Mod-Language-Modpack-1-19.zip
+[2024-06-24 13:36:58] [INFO]: Converting: C:\Users\hkbin\.i18nupdatemod\1.18\Minecraft-Mod-Language-Modpack-1-18.zip
+[2024-06-24 13:36:59] [INFO]: Converted: [C:\Users\hkbin\.i18nupdatemod\1.20\Minecraft-Mod-Language-Modpack-1-20.zip, C:\Users\hkbin\.i18nupdatemod\1.19\Minecraft-Mod-Language-Modpack-1-19.zip, C:\Users\hkbin\.i18nupdatemod\1.18\Minecraft-Mod-Language-Modpack-1-18.zip] -> C:\Users\hkbin\.i18nupdatemod\1.20.1\Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip
+[2024-06-24 13:36:59] [INFO]: Synchronized: C:\Users\hkbin\.i18nupdatemod\1.20.1\Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip -> C:\Users\hkbin\Desktop\workdir\client\.minecraft\resourcepacks\Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip

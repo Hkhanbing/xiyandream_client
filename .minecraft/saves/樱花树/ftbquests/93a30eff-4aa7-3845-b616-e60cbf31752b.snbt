@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "93a30eff4aa73845b616e60cbf31752b"
+	name: "binbin#93a30eff"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
